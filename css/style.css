@@ -1,0 +1,21 @@
+body {
+    background-image: url(../img/red.jpg);
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: #a3705c !important;
+}
+
+p {
+    color: black;
+    font-size: 1.2em;
+}
+
+.card-text {
+    font-size: 1em !important;
+}
+
+img {
+    height: 10em;
+}
