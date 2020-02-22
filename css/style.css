@@ -3,6 +3,7 @@ h1 {
 }
 
 body {
+    text-align: center !important;
     background-image: url(../img/red.jpg);
     background-size: cover;
 }
@@ -25,6 +26,8 @@ img {
 }
 
 #headings {
+    margin-left: 0 !important;
+    width: 100%;
     -webkit-text-stroke: 1px black;
     background-color: #550000;
 }
